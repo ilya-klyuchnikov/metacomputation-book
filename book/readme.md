@@ -1,6 +1,7 @@
 # TOC
 
 * Simple language (SLL with case expressions)
+* Fun with Scala Macros - implementting SLL with Scala Macros.
 * Interpreters, semantics
     * call-by-value, call-by-name
     * big-step, small-step
@@ -20,3 +21,4 @@
 * Different whistles
 * Zippers, stack-based representation of configurations
 * Obninsk whistle
+* Implementing SLL with XText and MPS
